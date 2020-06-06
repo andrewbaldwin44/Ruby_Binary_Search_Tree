@@ -1,5 +1,5 @@
 # Ruby_Binary_Search_Tree
->TA Binary Search Tree written in Ruby for the Odin Project!
+>A Binary Search Tree written in Ruby for the Odin Project!
 
 [View Demo]()
 
